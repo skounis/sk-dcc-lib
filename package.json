@@ -1,0 +1,20 @@
+{
+    "name": "sk-dcc-lib",
+    "version": "0.0.2",
+    "description": "Experimental library for EU DCC.",
+    "main": "./index.js",
+    "types": "./index.d.ts",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/skounis/sk-dcc-lib.git"
+    },
+    "author": "Stavros Kounis",
+    "license": "Apache 2.0",
+    "bugs": {
+      "url": "https://github.com/skounis/sk-dcc-lib/issues"
+    },
+    "homepage": "https://github.com/skounis/sk-dcc-lib#readme"
+  }
